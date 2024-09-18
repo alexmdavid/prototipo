@@ -94,4 +94,8 @@ nav ul li a {
     border-radius: 50px;
     cursor: pointer;
 }
+footer {
+    padding: 65px 0;
+    text-align: center;
+}
 
