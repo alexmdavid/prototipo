@@ -16,7 +16,9 @@ header {
 
 .logo img {
     height: 60px;
-    border-radius: 50px;
+    border-radius: 120px;
+    width: 120px;
+    height: 120px;
 }
 
 .social-media a {
