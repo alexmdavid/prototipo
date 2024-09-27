@@ -103,3 +103,15 @@ footer {
     text-align: center;
 }
 
+.zoom {
+    transition: transform 0.1s;
+    /* Tiempo de transición del efecto */
+
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+    /* Aumenta el tamaño de la imagen en un 20% */
+
+}
+
